@@ -1,6 +1,6 @@
 # Customer Funnel Analysis
 
-## Business Problem
+## Business Problem:
 The business experienced low conversion rates due to major customer drop-offs across the purchase funnel, particularly between browsing and checkout stages. Limited visibility into funnel performance across channels, regions, and product categories made it difficult to identify revenue leakage and optimize conversion strategies.
 
 ---
